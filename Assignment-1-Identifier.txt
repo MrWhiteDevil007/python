@@ -1,0 +1,27 @@
+List of Valid and invalid identifier :-
+
+Identifiers in Python
+
+1.  Must start with a letter (A-Z or a-z) or an underscore (_).
+2.  Can contain letters, digits (0-9), and underscores (_).
+3.  Cannot use Python reserved keywords as identifiers.
+4.  Cannot contain spaces or special characters (e.g., @, #, !, $, etc.).
+5.  Python identifiers are case-sensitive.
+
+Valid Python Identifiers:-
+
+1.   _my_variable (starts with an underscore)
+2.  variable1 (letters followed by digits)
+3.  MAX_COUNT (uppercase with underscores)
+4.  temp_var (letters and underscores)
+5.  _private_var (used for private variables by convention)
+
+Invalid Python Identifiers:-
+
+1.  1variable (starts with a digit)
+2.  my-variable (contains a hyphen)
+3.  temp@var (contains a special character @)
+4.  class (reserved keyword in Python)
+5.  my variable (contains a space)
+6.  finally (reserved keyword in Python)
+7.  3temp_var (starts with a digit)
